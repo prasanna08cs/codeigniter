@@ -1,0 +1,17 @@
+RatePlan,CouponID,Description,Price,ShowInMorePlans
+TestingPlan1,TST1-500-1,FUP 60GB - 16Mbps - 1Mbps - 30days,399,YES
+TestingPlan1,TST1-500-3,FUP 60GB - 16Mbps - 1Mbps - 180days,1099,YES
+TestingPlan1,TST1-500-6,FUP 60GB - 16Mbps - 1Mbps - 360days,1899,YES
+TestingPlan2,TST2-100-1,FUP 60GB - 8Mbps - 1Mbps - 30days,199,YES
+TestingPlan2,TST2-100-3,FUP 60GB - 8Mbps - 1Mbps - 180days,499,YES
+TestingPlan2,TST2-100-6,FUP 60GB - 8Mbps - 1Mbps - 360days,899,YES
+TestingPlan3,TST3-1000-1,FUP 60GB - 40Mbps - 4Mbps - 30days,599,YES
+TestingPlan3,TST3-1000-3,FUP 60GB - 40Mbps - 4Mbps - 180days,1699,YES
+TestingPlan3,TST3-1000-6,FUP 60GB - 40Mbps - 4Mbps - 360days,2999,YES
+spotsoon1,spotsoon1,FUP 60GB - 40Mbps - 4Mbps - 360days,3000,NO
+testdemo,testdemo,FUP 60GB - 40Mbps - 4Mbps - 360days,3001,NO
+new paln2,TST3-1000-9,FUP 60GB - 40Mbps - 4Mbps - 360days,3002,NO
+new paln3,TST3-1000-10,FUP 60GB - 40Mbps - 4Mbps - 360days,3003,NO
+new paln4,TST3-1000-11,FUP 60GB - 40Mbps - 4Mbps - 360days,3004,NO
+new paln5,TST3-1000-12,FUP 60GB - 40Mbps - 4Mbps - 360days,3005,NO
+new paln6,TST3-1000-13,FUP 60GB - 40Mbps - 4Mbps - 360days,3006,NO

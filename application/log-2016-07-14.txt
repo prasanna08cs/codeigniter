@@ -1,0 +1,220 @@
+INFO - 2016-07-14 16:57:03 --> Config Class Initialized
+INFO - 2016-07-14 16:57:03 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:57:03 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:57:03 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:57:03 --> URI Class Initialized
+DEBUG - 2016-07-14 16:57:03 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:57:03 --> Router Class Initialized
+INFO - 2016-07-14 16:57:03 --> Output Class Initialized
+INFO - 2016-07-14 16:57:03 --> Security Class Initialized
+DEBUG - 2016-07-14 16:57:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:57:03 --> Input Class Initialized
+INFO - 2016-07-14 16:57:03 --> Language Class Initialized
+INFO - 2016-07-14 16:57:03 --> Loader Class Initialized
+INFO - 2016-07-14 16:57:03 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:57:03 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:57:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:57:03 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:57:03 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:57:03 --> Final output sent to browser
+DEBUG - 2016-07-14 16:57:03 --> Total execution time: 0.1366
+INFO - 2016-07-14 16:57:08 --> Config Class Initialized
+INFO - 2016-07-14 16:57:08 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:57:08 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:57:08 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:57:08 --> URI Class Initialized
+DEBUG - 2016-07-14 16:57:08 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:57:08 --> Router Class Initialized
+INFO - 2016-07-14 16:57:08 --> Output Class Initialized
+INFO - 2016-07-14 16:57:08 --> Security Class Initialized
+DEBUG - 2016-07-14 16:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:57:08 --> Input Class Initialized
+INFO - 2016-07-14 16:57:08 --> Language Class Initialized
+INFO - 2016-07-14 16:57:08 --> Loader Class Initialized
+INFO - 2016-07-14 16:57:08 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:57:08 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:57:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:57:08 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:57:08 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:57:08 --> Final output sent to browser
+DEBUG - 2016-07-14 16:57:08 --> Total execution time: 0.1211
+INFO - 2016-07-14 16:57:35 --> Config Class Initialized
+INFO - 2016-07-14 16:57:35 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:57:35 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:57:35 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:57:35 --> URI Class Initialized
+DEBUG - 2016-07-14 16:57:35 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:57:35 --> Router Class Initialized
+INFO - 2016-07-14 16:57:35 --> Output Class Initialized
+INFO - 2016-07-14 16:57:35 --> Security Class Initialized
+DEBUG - 2016-07-14 16:57:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:57:35 --> Input Class Initialized
+INFO - 2016-07-14 16:57:35 --> Language Class Initialized
+INFO - 2016-07-14 16:57:35 --> Loader Class Initialized
+INFO - 2016-07-14 16:57:35 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:57:35 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:57:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:57:35 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:57:35 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:57:35 --> Final output sent to browser
+DEBUG - 2016-07-14 16:57:35 --> Total execution time: 0.1089
+INFO - 2016-07-14 16:59:22 --> Config Class Initialized
+INFO - 2016-07-14 16:59:22 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:59:22 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:59:22 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:59:22 --> URI Class Initialized
+DEBUG - 2016-07-14 16:59:22 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:59:22 --> Router Class Initialized
+INFO - 2016-07-14 16:59:22 --> Output Class Initialized
+INFO - 2016-07-14 16:59:22 --> Security Class Initialized
+DEBUG - 2016-07-14 16:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:59:22 --> Input Class Initialized
+INFO - 2016-07-14 16:59:22 --> Language Class Initialized
+INFO - 2016-07-14 16:59:22 --> Loader Class Initialized
+INFO - 2016-07-14 16:59:22 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:59:22 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:59:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:59:23 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:59:23 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:59:23 --> Final output sent to browser
+DEBUG - 2016-07-14 16:59:23 --> Total execution time: 1.2311
+INFO - 2016-07-14 16:59:35 --> Config Class Initialized
+INFO - 2016-07-14 16:59:35 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:59:35 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:59:35 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:59:35 --> URI Class Initialized
+DEBUG - 2016-07-14 16:59:35 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:59:35 --> Router Class Initialized
+INFO - 2016-07-14 16:59:35 --> Output Class Initialized
+INFO - 2016-07-14 16:59:35 --> Security Class Initialized
+DEBUG - 2016-07-14 16:59:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:59:35 --> Input Class Initialized
+INFO - 2016-07-14 16:59:35 --> Language Class Initialized
+INFO - 2016-07-14 16:59:35 --> Loader Class Initialized
+INFO - 2016-07-14 16:59:35 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:59:35 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:59:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:59:35 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:59:35 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:59:35 --> Final output sent to browser
+DEBUG - 2016-07-14 16:59:35 --> Total execution time: 0.1321
+INFO - 2016-07-14 16:59:51 --> Config Class Initialized
+INFO - 2016-07-14 16:59:51 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:59:51 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:59:51 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:59:51 --> URI Class Initialized
+DEBUG - 2016-07-14 16:59:51 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:59:51 --> Router Class Initialized
+INFO - 2016-07-14 16:59:51 --> Output Class Initialized
+INFO - 2016-07-14 16:59:51 --> Security Class Initialized
+DEBUG - 2016-07-14 16:59:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:59:51 --> Input Class Initialized
+INFO - 2016-07-14 16:59:51 --> Language Class Initialized
+INFO - 2016-07-14 16:59:51 --> Loader Class Initialized
+INFO - 2016-07-14 16:59:51 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:59:51 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 16:59:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 16:59:51 --> Controller Class Initialized
+DEBUG - 2016-07-14 16:59:51 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 16:59:51 --> Final output sent to browser
+DEBUG - 2016-07-14 16:59:51 --> Total execution time: 0.1166
+INFO - 2016-07-14 16:59:59 --> Config Class Initialized
+INFO - 2016-07-14 16:59:59 --> Hooks Class Initialized
+DEBUG - 2016-07-14 16:59:59 --> UTF-8 Support Enabled
+INFO - 2016-07-14 16:59:59 --> Utf8 Class Initialized
+INFO - 2016-07-14 16:59:59 --> URI Class Initialized
+DEBUG - 2016-07-14 16:59:59 --> No URI present. Default controller set.
+INFO - 2016-07-14 16:59:59 --> Router Class Initialized
+INFO - 2016-07-14 16:59:59 --> Output Class Initialized
+INFO - 2016-07-14 16:59:59 --> Security Class Initialized
+DEBUG - 2016-07-14 16:59:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 16:59:59 --> Input Class Initialized
+INFO - 2016-07-14 16:59:59 --> Language Class Initialized
+INFO - 2016-07-14 16:59:59 --> Loader Class Initialized
+INFO - 2016-07-14 16:59:59 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 16:59:59 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 17:00:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 17:00:00 --> Controller Class Initialized
+DEBUG - 2016-07-14 17:00:00 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 17:00:00 --> Final output sent to browser
+DEBUG - 2016-07-14 17:00:00 --> Total execution time: 1.1218
+INFO - 2016-07-14 17:00:16 --> Config Class Initialized
+INFO - 2016-07-14 17:00:16 --> Hooks Class Initialized
+DEBUG - 2016-07-14 17:00:16 --> UTF-8 Support Enabled
+INFO - 2016-07-14 17:00:16 --> Utf8 Class Initialized
+INFO - 2016-07-14 17:00:16 --> URI Class Initialized
+DEBUG - 2016-07-14 17:00:16 --> No URI present. Default controller set.
+INFO - 2016-07-14 17:00:16 --> Router Class Initialized
+INFO - 2016-07-14 17:00:16 --> Output Class Initialized
+INFO - 2016-07-14 17:00:16 --> Security Class Initialized
+DEBUG - 2016-07-14 17:00:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 17:00:16 --> Input Class Initialized
+INFO - 2016-07-14 17:00:16 --> Language Class Initialized
+INFO - 2016-07-14 17:00:16 --> Loader Class Initialized
+INFO - 2016-07-14 17:00:16 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 17:00:16 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 17:00:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 17:00:16 --> Controller Class Initialized
+DEBUG - 2016-07-14 17:00:16 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 17:00:16 --> Final output sent to browser
+DEBUG - 2016-07-14 17:00:16 --> Total execution time: 0.1535
+INFO - 2016-07-14 17:00:30 --> Config Class Initialized
+INFO - 2016-07-14 17:00:30 --> Hooks Class Initialized
+DEBUG - 2016-07-14 17:00:30 --> UTF-8 Support Enabled
+INFO - 2016-07-14 17:00:30 --> Utf8 Class Initialized
+INFO - 2016-07-14 17:00:30 --> URI Class Initialized
+DEBUG - 2016-07-14 17:00:30 --> No URI present. Default controller set.
+INFO - 2016-07-14 17:00:30 --> Router Class Initialized
+INFO - 2016-07-14 17:00:30 --> Output Class Initialized
+INFO - 2016-07-14 17:00:30 --> Security Class Initialized
+DEBUG - 2016-07-14 17:00:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 17:00:30 --> Input Class Initialized
+INFO - 2016-07-14 17:00:30 --> Language Class Initialized
+INFO - 2016-07-14 17:00:30 --> Loader Class Initialized
+INFO - 2016-07-14 17:00:30 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 17:00:30 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 17:00:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 17:00:30 --> Controller Class Initialized
+DEBUG - 2016-07-14 17:00:30 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 17:00:30 --> Final output sent to browser
+DEBUG - 2016-07-14 17:00:30 --> Total execution time: 0.1113
+INFO - 2016-07-14 17:00:49 --> Config Class Initialized
+INFO - 2016-07-14 17:00:49 --> Hooks Class Initialized
+DEBUG - 2016-07-14 17:00:49 --> UTF-8 Support Enabled
+INFO - 2016-07-14 17:00:49 --> Utf8 Class Initialized
+INFO - 2016-07-14 17:00:49 --> URI Class Initialized
+DEBUG - 2016-07-14 17:00:49 --> No URI present. Default controller set.
+INFO - 2016-07-14 17:00:49 --> Router Class Initialized
+INFO - 2016-07-14 17:00:49 --> Output Class Initialized
+INFO - 2016-07-14 17:00:49 --> Security Class Initialized
+DEBUG - 2016-07-14 17:00:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 17:00:49 --> Input Class Initialized
+INFO - 2016-07-14 17:00:49 --> Language Class Initialized
+INFO - 2016-07-14 17:00:49 --> Loader Class Initialized
+INFO - 2016-07-14 17:00:49 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 17:00:49 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 17:00:49 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 17:00:49 --> Controller Class Initialized
+DEBUG - 2016-07-14 17:00:49 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 17:00:49 --> Final output sent to browser
+DEBUG - 2016-07-14 17:00:49 --> Total execution time: 0.1246
+INFO - 2016-07-14 17:00:57 --> Config Class Initialized
+INFO - 2016-07-14 17:00:57 --> Hooks Class Initialized
+DEBUG - 2016-07-14 17:00:57 --> UTF-8 Support Enabled
+INFO - 2016-07-14 17:00:57 --> Utf8 Class Initialized
+INFO - 2016-07-14 17:00:57 --> URI Class Initialized
+DEBUG - 2016-07-14 17:00:57 --> No URI present. Default controller set.
+INFO - 2016-07-14 17:00:57 --> Router Class Initialized
+INFO - 2016-07-14 17:00:57 --> Output Class Initialized
+INFO - 2016-07-14 17:00:57 --> Security Class Initialized
+DEBUG - 2016-07-14 17:00:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-07-14 17:00:57 --> Input Class Initialized
+INFO - 2016-07-14 17:00:57 --> Language Class Initialized
+INFO - 2016-07-14 17:00:57 --> Loader Class Initialized
+INFO - 2016-07-14 17:00:57 --> Database Driver Class Initialized
+DEBUG - 2016-07-14 17:00:57 --> Config file loaded: C:\wamp\www\codeigniter\application\config/mongodb.php
+INFO - 2016-07-14 17:00:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-07-14 17:00:57 --> Controller Class Initialized
+DEBUG - 2016-07-14 17:00:57 --> Mongo_db class already loaded. Second attempt ignored.
+INFO - 2016-07-14 17:01:00 --> Final output sent to browser
+DEBUG - 2016-07-14 17:01:00 --> Total execution time: 3.0157

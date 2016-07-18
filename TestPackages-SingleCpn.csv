@@ -1,0 +1,4 @@
+RatePlan,CouponID,Description,Price,ShowInMorePlans
+SingleCpnPlan1,SCTI1-500-1,FUP 60GB - 16Mbps - 1Mbps - 30days,399,1
+SingleCpnPlan2,SCTI2-100-1,FUP 60GB - 8Mbps - 1Mbps - 30days,199,1
+TestingPlan3,SCTI3-1000-1,FUP 60GB - 40Mbps - 4Mbps - 30days,599,1
